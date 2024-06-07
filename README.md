@@ -21,7 +21,7 @@ I'm a second-year Computer Science Engineering student with a passion for Data S
 - How to get started with open source contributions.
 
 ### 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yash--singhal/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yash--singhal/)
 
 ### ⚡ Fun Fact
 I love participating in coding challenges. They push me to think out of the box and learn rapidly!
