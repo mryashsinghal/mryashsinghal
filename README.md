@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a second-year Computer Science Engineering student with a passion for Data Structures and Algorithms (DSA) and Web Development. I'm enthusiastic about learning new technologies and building projects that can make a difference.
+I'm a 3rd-year Computer Science Engineering student with a passion for Data Structures and Algorithms (DSA) and Web Development. I'm enthusiastic about learning new technologies and building projects that can make a difference.
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
